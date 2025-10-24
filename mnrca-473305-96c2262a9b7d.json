@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mnrca-473305",
+  "private_key_id": "96c2262a9b7db3c2fe76a4393c634cc2f2878e9d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCWxBNPB8u0PfLN\nqkFSH5I9jagBwjA3klAqnwYQoLSnxF5hbPHvPs8HgnGTE7Fs5PPwKAdk9nbTRxqw\np02Tk2DdODEpoEcauiB59w7cmsdSnVpv5zaO/FG9Qtdre/BCE93HqKYHHcB1EbVX\nbtKtQMML1dROqslBc2WkLqMuqxvFZvr+JuWNoy8yXPgHbbgDBakh7xGCtKzp8we+\njMJ8lOlEFrw5liweJyxI/y4/8R5hQhithLm/veDLLkp+HNYphfdF0wTj8Ufobhqm\nCsaPFt5f/go0NIfYr46J4PQTdQE+gBq9fEGstyFblEe9S8Kfa6iUvx5NFGACNURe\n+eIofJftAgMBAAECggEAElAZylE3mJqnufySt593G3vv6trEEZP3od20FmP23aP4\nFNxvXLCj5BUfp45OUFxVFxg9obFgSJSL9OY1gZX2v5g6PISn7mKqXDY6u2gfivTr\nDcmncmHKqfMLCJbC3bvdBgoBtL6T6IRwowCmnX3O00qzYaTUEluqfnFdx+bn1ifW\n29/X6MXzQMsEf39F5il98X2gc3vtVoSY+sPmx1P9x0XIAPvN/q5gQyIPDrIEwIah\nbHJSkjNPA83x4sDkkCWwSDJzgVjRUzL8XxZW/H1VFASqSCC824sREugCR4PCtQUV\na22pUdMVpBigTK3iM0IHOYVHW7i7kK/FyeL/Ta4kcQKBgQDIExTgpEv1S1xiygB5\nKxL8wONomeJZC6nDy2gfYGFDc5HLWPWNHbI0lS8hK5+o4B10hBCP/FktlydS4smy\nKlIQMuwh4CPQUhviGx+aYCrUhTOa3uA+oodXw4Ts1KYLj0XHNamlmipSKbQvxDh2\nDnDMrIRtFCVSh+nXRDxIhS3WGQKBgQDA6JJS2DRhnFIk9QM0iesMX6T2bLVsLp7z\n3NxkGo2PbGxUoB+BGDXXep/CMIDADA6IoavkzEoEcuICujAwnjALvRAHBeopz4WL\nRM5CbTQOUD4uSGJ8C6lkXFyJcH4SvzvKnTjFJ9/YLWmsGkHijONukNJTKG70ehMi\nDosSlNaC9QKBgA9Yv1o34AexvyVovz6MGkm+9fKZEy6nYV8+Y/88IlnNLJq/eR5Y\n78luxA20TevjPP8p/ic9QQ3pMT//W19KNb8+WLSEf9rD4ZWnZPYveDmS+hFgFS1Y\nxC7sNW8BJLdwRvbv29JzD9n7jvG3CGmt0+MvPH0tdWtuN3amqkUZyhlJAoGACWqQ\n0ehpziXyQImRKXxd89GrXLf7txcjfSXXwC8nn8ucEhlq0ENdRXJf3/u8HSO5hePW\nXym1pzfwXk+2UHk4QSpuYNliD75od17ZbpakBtrV3i58WC+9if+UKMVL8iBRi9dW\n0RDcNVIqKVNyyds0ss3w5kw/9kELNAtfsH2BZw0CgYA+uoM0jIUxfae3462uhtFp\n7dSxoVcDnTarsmjE6g8kum8XXfDmIItEUnJ4NbjWw5wI33WVKX5cZXVbiVeXV9E/\nUawgoCySdi9l/HPpRxgZEWHU9X2MlciM5PpgvncDjKtCGPuqLy0n40HsCZmflyk0\nlyXu9tW5FSykQUhKCdZ9GQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "helpdesk-cloud-run-sa@mnrca-473305.iam.gserviceaccount.com",
+  "client_id": "101354603989976217005",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/helpdesk-cloud-run-sa%40mnrca-473305.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
